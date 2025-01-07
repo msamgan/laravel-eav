@@ -2,9 +2,9 @@
 
 namespace Msamgan\LaravelEav;
 
+use Msamgan\LaravelEav\Commands\LaravelEavCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Msamgan\LaravelEav\Commands\LaravelEavCommand;
 
 class LaravelEavServiceProvider extends PackageServiceProvider
 {
